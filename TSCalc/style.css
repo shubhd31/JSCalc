@@ -1,0 +1,20 @@
+.container-new{
+    background-color: #e6e6e6;
+    width: 452px;
+    margin: 0 auto;
+}
+
+.input{
+    width: 100%;
+}
+
+.btn-style{
+    width: 85px;
+    background-color: rgba(248, 248, 248, 0.26);
+}
+
+.result-btn{
+    width: 85px;
+    background-color: #c2daff;
+}
+
